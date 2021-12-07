@@ -12,7 +12,8 @@ GITHub                    Debugging        Visual Studio Co
 
 ### EDUCATION
 
-**Kenzie Academy**                                        Nov. 2021
+**Kenzie Academy**                                        
+Nov. 2021
 Associate Front-End Software Engineer Certification
 
 
@@ -40,7 +41,8 @@ from an api and created a user interface to interact with the data. I also utili
 
 **Amazon**                                          
 West Bloomfield, MI
-_FC Associate I_                                      Feb. 2019 - Present
+_FC Associate I_                                      
+Feb. 2019 - Present
 - Cross-trained and mastered multiple roles in a very fast-paced environment with a healthy sense of 
 Urgency.
 - Organized  and oversaw the onboarding and training of new employees for their site orientation.
@@ -61,7 +63,8 @@ _Shipping Clerk_                                                       Mar. 2018
 
 **Zingermans Bakehouse**
 Ann Arbor, MI
-Cleaning Manager  May, 2017 – Dec. 2017
+Cleaning Manager
+May, 2017 – Dec. 2017
 -  Determined weekly cleaning needs and posted work schedules accordingly.
 -  Trained staff members in the use of safety equipment. 
 -  Hired and trained cleaning staff as needed.
@@ -72,7 +75,8 @@ meeting expectations
 
 **Flatout Bakery**
 Saline, MI
-Sanitation         Mar, 2014 – May 2017
+Sanitation         
+Mar, 2014 – May 2017
 
 - Cleaned and sanitized the production facility to maintain a safe environment for food production.  
 learned to operate a skyjack.
@@ -83,44 +87,3 @@ apply them to both food contact and nonfood-contact surfaces.
 facility.
 
 Certified in CPR, AED, and First Aid.
-
-
-
-
-
-
-You can use the [editor on GitHub](https://github.com/gswaniv/gswan.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gswaniv/gswan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
