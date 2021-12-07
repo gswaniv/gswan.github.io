@@ -1,7 +1,7 @@
 # George W. SWAN IV 
 ### Front-End Web Developer 
 
-https://www.linkedin.com/in/george-w-swan-iv-58244326/  | George.SwanIV@gmail.com 
+[LinkedIn](https://www.linkedin.com/in/george-w-swan-iv-58244326/)  | George.SwanIV@gmail.com 
 
 Open to relocation and authorized to work throughout the United States and remotely without restrictions
 
@@ -21,7 +21,7 @@ Bachelors of Science in Business Management Associates of Multimedia
 
 ### ACADEMIC and PROJECT EXPERIENCE
 
-**Kenzie Academy**                                                             Indianapolis, IN (Remote)
+**Kenzie Academy**                                                      Indianapolis, IN (Remote)
 Software Development | Project Based Training                           May 2021 – Nov. 2021     
 Completed an intensive hands-on, 6-month technical program in Front-End Web Development, obtaining
 a software certification  and graduated with a 98%
@@ -29,8 +29,6 @@ Learned how to utilize Visual Studio Code and Github to upload, download and cre
 as gained proficiency in Javascript, HTML and CSS
 After learning the fundamentals of Javascript I am in a better position to learn other languages as I 
 already have an understanding of the universal characteristics of programming languages.
-
-                     
 
 Hands-on Experience in an Agile Environment:
 Javascript Showcase—Capstone Project:https://codepen.io/GswanIV/full/mdMxKev?fbclid=IwAR1o0jQUkzi8XfE6YRecC7FOosd0u8bRctUPvIhwS8jUCRYxOLt_cQagnI4.  
@@ -40,10 +38,9 @@ from an api and created a user interface to interact with the data. I also utili
 
 **WORK EXPERIENCE**   
 
-**Amazon**                                                    
+**Amazon**                                          
 West Bloomfield, MI
-FC Associate I                                                       Feb. 2019 – Present
-
+_FC Associate I_                                      Feb. 2019 - Present
 - Cross-trained and mastered multiple roles in a very fast-paced environment with a healthy sense of 
 Urgency.
 - Organized  and oversaw the onboarding and training of new employees for their site orientation.
@@ -53,7 +50,7 @@ Urgency.
 
 **Advanced Engineering**
 Canton, MI
-Shipping Clerk.    Mar. 2018 – May 2019
+_Shipping Clerk_                                                       Mar. 2018 – May 2019
 
 - Retrieved customer orders and packaged for shipment.
 - Moved products to Assigned area in the warehouse.
