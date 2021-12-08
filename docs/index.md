@@ -38,7 +38,6 @@ Javascript Showcase—Capstone Project:https://codepen.io/GswanIV/full/mdMxKev?f
 Developed a trivia game site for the capstone project that utilized HTML and Javascript to pull information 
 from an api and created a user interface to interact with the data. I also utilized CSS to style the page to make it fun and appealing for a user to interact with as well. 
 
-
 **WORK EXPERIENCE**   
 
 **Amazon**  
