@@ -38,7 +38,7 @@ Javascript Showcase—Capstone Project:https://codepen.io/GswanIV/full/mdMxKev?f
 Developed a trivia game site for the capstone project that utilized HTML and Javascript to pull information 
 from an api and created a user interface to interact with the data. I also utilized CSS to style the page to make it fun and appealing for a user to interact with as well. 
 
-**WORK EXPERIENCE**   
+### WORK EXPERIENCE  
 
 **Amazon**  
 West Bloomfield, MI  
@@ -60,7 +60,6 @@ Mar. 2018 – May 2019
 - Recorded items removed from inventory.
 - Certified to operate forklifts and in CPR and First Aid 
 
-
 **Zingermans Bakehouse**  
 Ann Arbor, MI  
 Cleaning Manager  
@@ -72,10 +71,9 @@ May, 2017 – Dec. 2017
 -  Trained and coached staff providing daily feedback on their performance to ensure that they are
 meeting expectations
 
-
 **Flatout Bakery**  
 Saline, MI  
-Sanitation         
+_Sanitation_         
 Mar, 2014 – May 2017  
 - Cleaned and sanitized the production facility to maintain a safe environment for food production.  
 learned to operate a skyjack.
