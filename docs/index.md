@@ -34,7 +34,7 @@ After learning the fundamentals of Javascript I am in a better position to learn
 already have an understanding of the universal characteristics of programming languages.
 
 Hands-on Experience in an Agile Environment:
-Javascript Showcase—Capstone Project:https://codepen.io/GswanIV/full/mdMxKev?fbclid=IwAR1o0jQUkzi8XfE6YRecC7FOosd0u8bRctUPvIhwS8jUCRYxOLt_cQagnI4.  
+[Javascript Showcase—Capstone Project:](https://codepen.io/GswanIV/full/mdMxKev?fbclid=IwAR1o0jQUkzi8XfE6YRecC7FOosd0u8bRctUPvIhwS8jUCRYxOLt_cQagnI4).  
 Developed a trivia game site for the capstone project that utilized HTML and Javascript to pull information 
 from an api and created a user interface to interact with the data. I also utilized CSS to style the page to make it fun and appealing for a user to interact with as well. 
 
