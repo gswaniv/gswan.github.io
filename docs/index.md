@@ -1,9 +1,8 @@
-# George W. SWAN IV  
-### Front-End Web Developer  
-
-[George Swan IV](https://www.linkedin.com/in/george-w-swan-iv-58244326/)  | George.SwanIV@gmail.com 
-
-Open to relocation and authorized to work throughout the United States and remotely without restrictions
+ # George W. SWAN IV 
+### Front-End Web Developer 
+| [George Swan IV](https://www.linkedin.com/in/george-w-swan-iv-58244326/)  | George.SwanIV@gmail.com |
+ 
+_Open to relocation and authorized to work throughout the United States and remotely without restrictions_
 
 ### TECHNICAL SKILLS
 *HTML/ CSS*               *JavaScript*        *API*    
@@ -82,5 +81,5 @@ apply them to both food contact and nonfood-contact surfaces.
 - Sorted and baled cardboard and plastic for recycling.
 - Practiced lock-out tag-out procedures to safely clean potentially dangerous equipment in the 
 facility.
-
-Certified in CPR, AED, and First Aid.
+***************
+Certified in CPR, AED and First Aid.
