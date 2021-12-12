@@ -1,6 +1,6 @@
  # George W. SWAN IV 
 ### Front-End Web Developer 
-| [George Swan IV](https://www.linkedin.com/in/george-w-swan-iv-58244326/)  | George.SwanIV@gmail.com |
+| [Linkedin: George W. Swan IV ](https://www.linkedin.com/in/george-w-swan-iv-58244326/) | George.SwanIV@gmail.com |
  
 _Open to relocation and authorized to work throughout the United States and remotely without restrictions_
 
