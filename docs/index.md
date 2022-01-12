@@ -1,7 +1,7 @@
  # George W. SWAN IV 
 ### Front-End Web Developer 
 | [Linkedin: George W. Swan IV ](https://www.linkedin.com/in/george-w-swan-iv-58244326/) | George.SwanIV@gmail.com |
- 
+|[My Portfolio on Codepen.io](https://codepen.io/GswanIV) |
 _Open to relocation and authorized to work throughout the United States and remotely without restrictions_
 
 ### TECHNICAL SKILLS
